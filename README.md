@@ -1,9 +1,9 @@
 [![Open in MATLAB Online]
 
-# Práctica: Sistema cardiovascular
+# Práctica 2: Sistema cardiovascular
 
 ## Información de la estudiante
-Corina Plata-Ante \[03210981]; corina.plata@tectijuana.edu.mx
+Karla Emilia Silva Perez \[22211767]; l22211767@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
