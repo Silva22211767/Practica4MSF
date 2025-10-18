@@ -10,11 +10,11 @@ authors:
     family-names: Silva Perez
     email: l22211767@tectijuana.edu.mx
     affiliation: TecNM-ITT
-repository-code: 'https://github.com/Silva22211767/Practica0MSF'
+repository-code: 'https://github.com/Silva22211767/Practica4MSF'
 keywords:
   - Circuito RLC
   - Controlador PID
-  - Sistema respiratorio
+  - Sistema cardiovascular
   - Modelo matemático
   - Simulaciones numéricas
 license: BSD-2-Clause
