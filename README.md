@@ -1,6 +1,6 @@
 [![Open in MATLAB Online]
 
-# Práctica 2: Sistema cardiovascular
+# Práctica 4: Sistema cardiovascular
 
 ## Información de la estudiante
 Karla Emilia Silva Perez \[22211767]; l22211767@tectijuana.edu.mx
